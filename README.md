@@ -4,7 +4,7 @@ Welcome to my repository of **Machine Learning (ML)** and **Data Science (DS)** 
 
 ## 🌟 Featured Projects
 
-- **[Movie Ratings Prediction](link)**: *Predicts movie ratings based on factors like director and actors, using advanced regression techniques.*
+- **[Movie Ratings Prediction](music-popularity-prediction (1).ipynb)**: *Predicts movie ratings based on factors like director and actors, using advanced regression techniques.*
 - **[Star Type Classification](link)**: *Classifies stars based on attributes such as color, temperature, and luminosity, using supervised learning.*
 - **[Song Popularity Prediction](link)**: *Determines song popularity by analyzing various musical and categorical features.*
 
