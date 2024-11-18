@@ -7,7 +7,7 @@ Welcome to my repository of **Machine Learning (ML)** and **Data Science (DS)** 
 - **[Movie Ratings Prediction](link)**: *Predicts movie ratings based on factors like director and actors, using advanced regression techniques.*
 - **[Star Type Classification](link)**: *Classifies stars based on attributes such as color, temperature, and luminosity, using supervised learning.*
 - **[Song Popularity Prediction](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/music-popularity-prediction%20(1).ipynb)**: *Determines song popularity by analyzing various musical and categorical features.*
-- **[Stress Detection](link)**: *A machine learning model that detects stress levels based on various physiological and behavioral inputs, helping identify early signs of stress for timely intervention.*
+- **[Stress Detection](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/stress-detection-model.ipynb)**: *A machine learning model that detects stress levels based on various physiological and behavioral inputs, helping identify early signs of stress for timely intervention.*
 
 ## 📂 Repository Structure
 
