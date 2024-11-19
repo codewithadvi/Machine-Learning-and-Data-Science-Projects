@@ -19,5 +19,5 @@ Welcome to my repository of **Machine Learning (ML)** and **Data Science (DS)** 
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/ML_DS_Projects.git
+   git clone https://github.com/yourusername/ML_DS_Projects.git](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects.git
    cd ML_DS_Projects
