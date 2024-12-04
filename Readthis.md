@@ -10,6 +10,7 @@ To be proficient in Python, one should focus on the following aspects:
    - **Web Development**: Familiarity with frameworks like Django and Flask.
    - **Data Science**: Proficiency in libraries like NumPy, Pandas, Matplotlib, and SciPy.
    - **Machine Learning**: Knowledge of TensorFlow, Keras, and Scikit-learn.
+   - **Network Programming**:Knowledge of how to communicate in Computer Networks
 
 4. **File Handling**: Skills in reading from and writing to files, including CSV and JSON formats.
 
