@@ -33,4 +33,6 @@ This repository contains a **Heart Disease Prediction Web App** built using **St
 
 ## Preview 🎉
 Here’s a glimpse of the web app in action:
+<img width="625" alt="Screenshot 2024-12-16 102127" src="https://github.com/user-attachments/assets/3a1794bf-6625-4079-925a-dbaf90fbf0e5" />
+
 
