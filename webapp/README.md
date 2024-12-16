@@ -26,11 +26,11 @@ This repository contains a **Heart Disease Prediction Web App** built using **St
 - **scikit-learn**: For training and deploying the ML model.
 - **Pandas**: For data manipulation and preprocessing.
 
----Model Performance 📈
-Algorithm Used: Random Forest Classifier
-Accuracy: 85%
-Evaluation Metrics: Precision, Recall, F1-Score, and Confusion Matrix.
+## Model Performance 📈
+- **Algorithm Used**: Random Forest Classifier
+- **Accuracy**: 85%
+- **Evaluation Metrics**: Precision, Recall, F1-Score, and Confusion Matrix.
 
-Preview 🎉
+## Preview 🎉
 Here’s a glimpse of the web app in action:
 
