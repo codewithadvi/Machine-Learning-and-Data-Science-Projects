@@ -1,35 +1,51 @@
-# Heart Disease Prediction Web App 🚀
+# Heart Disease Prediction Web App
 
-This repository contains a **Heart Disease Prediction Web App** built using **Streamlit** and powered by a machine learning model trained with **scikit-learn**. The model achieves an impressive **85% accuracy** in predicting the likelihood of heart disease based on input parameters. The app is user-friendly and designed to provide quick predictions for healthcare enthusiasts or data science projects.
-
----
-
-## Features 🌟
-- **Machine Learning**: Trained using a Random Forest Classifier with an accuracy of **85%**.
-- **Streamlit Integration**: Interactive and responsive web interface for users to input data and get predictions.
-- **Real-World Application**: Provides insights into heart disease prediction based on key health metrics.
-- **Data-Driven Approach**: Built using clean and efficient workflows with **scikit-learn** and **Pandas**.
+This repository contains a **web application** built using **Streamlit** and an **ML model** trained with an accuracy of **85%** to predict the likelihood of heart disease. The application allows users to input relevant medical data and receive a prediction instantly.
 
 ---
 
-## How It Works 🔧
-1. The machine learning model was trained on a heart disease dataset using **scikit-learn**.
-2. After achieving high accuracy, the model was saved and integrated into the Streamlit web app.
-3. Users can input relevant health parameters (e.g., age, cholesterol levels, blood pressure) on the app.
-4. The app processes the inputs and provides a prediction of the likelihood of heart disease.
+## Features
+
+- **Machine Learning Model**: Trained using Scikit-learn with real-world heart disease data.
+- **Streamlit Integration**: A user-friendly and interactive web interface.
+- **Prediction**: Provides results based on the trained ML model.
+- **Technology Stack**:
+  - Python
+  - Scikit-learn
+  - Streamlit
 
 ---
 
-## Tech Stack 💻
-- **Python**: Core programming language for building the app.
-- **Streamlit**: Framework for creating the web app.
-- **scikit-learn**: For training and deploying the ML model.
-- **Pandas**: For data manipulation and preprocessing.
+## Demo
+
+### Preview
+![Web App Preview](webapp_preview.png)
 
 ---
-Model Performance 📈
-Algorithm Used: Random Forest Classifier
-Accuracy: 85%
-Evaluation Metrics: Precision, Recall, F1-Score, and Confusion Matrix.
 
-![Web App Preview]
+## How It Works
+
+1. **Input**: Users enter key health metrics (e.g., age, cholesterol levels, blood pressure).
+2. **Prediction**: The ML model processes the input and predicts the probability of heart disease.
+3. **Result**: The output is displayed on the web app with an easy-to-read interface.
+
+---
+
+Project Workflow
+Data Collection and Preprocessing:
+
+The dataset used was cleaned and preprocessed to ensure high accuracy.
+Model Training:
+
+A classification model was built using Scikit-learn and achieved an accuracy of 85% on the test dataset.
+Web App Development:
+
+The trained model was integrated with a web application built using Streamlit for user interaction.
+Technologies Used
+Python: For data processing and building the ML model.
+Scikit-learn: For machine learning.
+Streamlit: For creating the web app interface.
+Screenshot
+Here's how the web app looks:
+
+
