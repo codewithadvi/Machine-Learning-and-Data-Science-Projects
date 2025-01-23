@@ -5,10 +5,10 @@ Welcome to my repository! 🎉 Here, you'll find a collection of cool **Machine 
 ## 📚 Table of Contents
 1. [House Price Prediction](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/House%20Price%20Prediction/house-price-prediction.ipynb)
 2. [Music Popularity Prediction Model](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/Music%20Popularity%20Prediction%20Model/music-popularity-prediction%20(1).ipynb)
-3. [Sarcasm Detection System](#sarcasm-detection-system)
-4. [Stress Detection System](#stress-detection-system)
-5. [Titanic Survival Prediction](#titanic-survival-prediction)
-6. [❤️ Heart Disease Prediction Web App](#heart-disease-prediction-web-app)
+3. [Sarcasm Detection System](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/Sarcasm%20Detection%20System/sarcasm-detection%20(1).ipynb)
+4. [Stress Detection System](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/Stress%20Detection%20System/stress-detection-model.ipynb)
+5. [Titanic Survival Prediction](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/titanic%20survival%20prediction/titanic-survivor-prediction.ipynb)
+6. [❤️ Heart Disease Prediction Web App](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/webapp/heartprediction.py)
 
 ---
 
