@@ -3,8 +3,8 @@
 Welcome to my repository! 🎉 Here, you'll find a collection of cool **Machine Learning** and **Data Science** projects 🎨. From predicting house prices 🏡 to detecting sarcasm 😜, and analyzing music popularity 🎶, each project showcases the power of machine learning to solve real-world problems! Explore and dive into the individual project folders, each with its own detailed README. Enjoy the journey! 😄
 
 ## 📚 Table of Contents
-1. [House Price Prediction](#https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/House%20Price%20Prediction/house-price-prediction.ipynb)
-2. [Music Popularity Prediction Model](#https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/Music%20Popularity%20Prediction%20Model/music-popularity-prediction%20(1).ipynb)
+1. [House Price Prediction](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/House%20Price%20Prediction/house-price-prediction.ipynb)
+2. [Music Popularity Prediction Model](https://github.com/codewithadvi/Machine-Learning-and-Data-Science-Projects/blob/main/Music%20Popularity%20Prediction%20Model/music-popularity-prediction%20(1).ipynb)
 3. [Sarcasm Detection System](#sarcasm-detection-system)
 4. [Stress Detection System](#stress-detection-system)
 5. [Titanic Survival Prediction](#titanic-survival-prediction)
